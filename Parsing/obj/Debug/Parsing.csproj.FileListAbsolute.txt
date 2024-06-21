@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\parsing\Parsing\bin\Debug\Parsing.exe.config
+C:\Users\Administrator\source\repos\parsing\Parsing\bin\Debug\Parsing.exe
+C:\Users\Administrator\source\repos\parsing\Parsing\bin\Debug\Parsing.pdb
+C:\Users\Administrator\source\repos\parsing\Parsing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\parsing\Parsing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\parsing\Parsing\obj\Debug\Parsing.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\parsing\Parsing\obj\Debug\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\parsing\Parsing\obj\Debug\Parsing.csproj.CopyComplete
+C:\Users\Administrator\source\repos\parsing\Parsing\obj\Debug\Parsing.exe
+C:\Users\Administrator\source\repos\parsing\Parsing\obj\Debug\Parsing.pdb
